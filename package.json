@@ -1,0 +1,29 @@
+{
+  "name": "easyargs",
+  "version": "1.0.0",
+  "description": "Easy command line arguments",
+  "main": "easyargs.js",
+  "scripts": {
+    "test": "node easyargs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMarstonConnell/easyargs.git"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "arguments",
+    "easy",
+    "simple"
+  ],
+  "author": "Marston Connell",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/TheMarstonConnell/easyargs/issues"
+  },
+  "homepage": "https://github.com/TheMarstonConnell/easyargs#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
