@@ -20,7 +20,7 @@ let argumentHandler = {
         }
     },
     manual: function () {
-        console.log(`USAGE: node <filename> [function flag] [options]`);
+        console.log(`USAGE: node <filename> [options]`);
         for (const arg of argumentHandler.raw_arguments) {
 
             
