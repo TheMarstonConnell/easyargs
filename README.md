@@ -1,7 +1,7 @@
-#EasyArgs
+# EasyArgs
 An easy to use command-line argument template tool.
 
-##Installation
+## Installation
 ```
 npm install easyargs
 ```
