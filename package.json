@@ -1,6 +1,6 @@
 {
   "name": "easyarguments",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy command line arguments",
   "main": "easyargs.js",
   "scripts": {
